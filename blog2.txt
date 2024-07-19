@@ -1,0 +1,2 @@
+This is my blog 2
+from git and github
